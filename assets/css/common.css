@@ -1,0 +1,9 @@
+@import "normalize.css";
+@import "font.css";
+
+/*reset*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, big, cite, code, del, dfn, em, font, img, ins, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, textarea, input, select, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary, audio, canvas, video {margin: 0; padding: 0; line-height: 1.2; box-sizing: border-box;}
+*, :after, :before {box-sizing: border-box;}
+html {font-size: 62.5%; font-family: 'EliceDigitalBaeum_Regular', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif; font-weight: 400; line-height: 1.2; color: #000;}
+body {font-size: 1.6rem;}
+button{border-radius:0; font-family: inherit; cursor: pointer; vertical-align:middle; border:none; box-shadow:initial; -webkit-appearance: none; -moz-appearance: none; appearance: none; font-size: 1.6rem; font-weight: 500; color: inherit; background: inherit;}
